@@ -1,0 +1,27 @@
+# Databases
+*.db
+*.db-journal
+
+# Local Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Node dependencies
+node_modules/
+dist/
+.eslintcache
+
+# Python dependencies
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDEs and system files
+.vscode/
+.idea/
+.gemini/
+.DS_Store
+Thumbs.db
